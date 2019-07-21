@@ -1,17 +1,6 @@
-package company.company;
+package company.排序;
 
-/**
- * 快速排序
- * 首尾为基数，从后往前找比首小
- * 的，换位置，
- * 从前往后找比首大的，互换位置
- * 换位置得就是前后找到得两个
- * <p>
- * 冒泡《稳定》、选择《不稳定》、插入《稳定》都是时间(n的平方)，空间1
- * 快速排序n*log n  <不稳定 ></>
- */
-
-public class QuickSort {
+public class 快速 {
     public static void main(String[] args) {
         System.out.println("Hello World");
         int[] a = {12, 20, 5, 16, 15, 1, 30, 45, 23, 9};
@@ -53,6 +42,5 @@ public class QuickSort {
         if (start > low) sort(a, low, start - 1);//左边序列。第一个索引位置到关键值索引-1
         if (end < high) sort(a, end + 1, high);//右边序列。从关键值索引+1到最后一个
     }
-
 
 }
