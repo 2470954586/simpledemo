@@ -11,7 +11,7 @@ public class 桶排序 {
         int[] showsize = {34, 35, 36, 37, 38, 33};
         //分配桶的大小
         int[] arrs = new int[11];
-        for (int i = 0; i < arrs.length; i++) {
+        for  (int i = 0; i < arrs.length; i++) {
             arrs[i] = 0;
         }
         //把数组放到桶里
