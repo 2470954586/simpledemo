@@ -1,26 +1,24 @@
 package company.company;
 
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-import java.util.concurrent.TimeUnit;
+import java.util.concurrent.*;
 
 public class AThreadPool {
     public static void main(String args[]) {
-//        一个线程池处理5个线程
-//        ExecutorService threadPool = Executors.newFixedThreadPool(5);
-//        ExecutorService  threadPool=Executors.newSingleThreadExecutor();
-        ExecutorService threadPool = Executors.newCachedThreadPool();
+
+        ExecutorService threadPool = new ThreadPoolExecutor(
+                2,
+                5,
+                1L,
+                TimeUnit.SECONDS,
+                new LinkedBlockingQueue<Runnable>(3),
+                Executors.defaultThreadFactory(),
+                new ThreadPoolExecutor.DiscardPolicy());
         try {
-            for (int i = 1; i < 10; i++) {
+            for (int i = 0; i < 10; i++) {
                 threadPool.execute(() -> {
                     System.out.println(Thread.currentThread().getName() + "\t办业务");
 
                 });
-                try {
-                    TimeUnit.SECONDS.sleep(2);
-                } catch (Exception e) {
-                    e.printStackTrace();
-                }
             }
         } catch (Exception e) {
             e.printStackTrace();
@@ -29,4 +27,6 @@ public class AThreadPool {
 
         }
     }
+
+
 }
