@@ -19,31 +19,28 @@ public class FindArray {
      * （因为查询最右下角的元素时，第0列是允许的不能停止。
      * */
     public static void main(String[] args) {
-        int[][] arr = { {1,2,8,9}, {2,4,9,12},{4,7,10,13},{6,8,11,15}};
+        int[][] arr = {{1, 2, 8, 9}, {2, 4, 9, 12}, {4, 7, 10, 13}, {6, 8, 11, 15}};
 
 
-
-
-        System.out.println(Find(5,arr));
+        System.out.println(Find(5, arr));
 
 
     }
 
-    static public boolean Find(int target, int [][] array) {
-        int row_len=array.length;
+    static public boolean Find(int target, int[][] array) {
+        int row_len = array.length;
         int column_len = array[0].length;//列的长度4
         int row;
         int column;//3
-        for(row=0,column=column_len-1;column>=0&&row<row_len;)
-        {
-            if(target==array[row][column]){
+        for (row = 0, column = column_len - 1; column >= 0 && row < row_len; ) {
+            if (target == array[row][column]) {
                 return true;
             }
-            if(array[row][column]>target){
+            if (array[row][column] > target) {
                 column--;
                 continue;
             }
-            if (array[row][column]<target){
+            if (array[row][column] < target) {
                 row++;
                 continue;
             }
@@ -53,10 +50,6 @@ public class FindArray {
 
         return false;
     }
-
-
-
-
 
 
 }
