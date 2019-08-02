@@ -1,10 +1,15 @@
 package company.company;
 
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
 public class Main {
 
     public static void main(String[] args) {
-        int a =100,b=50,c=a---b,d=a---b;
+        int a = 100, b = 50, c = a-- - b, d = a-- - b;
         System.out.println(a);
+
         System.out.println(b);
         System.out.println(c);
         System.out.println(d);

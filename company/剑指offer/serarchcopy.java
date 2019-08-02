@@ -5,7 +5,7 @@ package company.剑指offer;
  * 但不知道有几个数字是重复的，也不知道每个数字重复几次。请找出数组中任意一个重复的数字。
  * */
 public class serarchcopy {
-    public    boolean duplicate(int[] nums, int length, int[] duplication) {
+    public boolean duplicate(int[] nums, int length, int[] duplication) {
         if (nums == null || length <= 0)
             return false;
         for (int i = 0; i < length; i++) {
@@ -25,8 +25,11 @@ public class serarchcopy {
         nums[i] = nums[j];
         nums[j] = t;
     }
-    public   static  void   main(String args[]){
-        int [] numms={1,34,56,3,65,1,343};
+
+    public static void main(String args[]) {
+        int[] numms = {1, 34, 56, 3, 65, 1, 343};
+        int n = 1;
+        int de = 3;
 
     }
 
