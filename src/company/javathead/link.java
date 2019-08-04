@@ -13,12 +13,12 @@ public class link {
         a.add("asd");
         a.add("sd");
         a.add("dfd");
-        System.out.println("a是"+a);
+        System.out.println("a是" + a);
         List<String> b = new LinkedList<>();
         b.add("gg");
         b.add("hjh");
         b.add("ghgh");
-        System.out.println("b是"+b);
+        System.out.println("b是" + b);
         ListIterator<String> aIterator = a.listIterator();
         Iterator<String> bIterator = b.listIterator();
         while (bIterator.hasNext()) {

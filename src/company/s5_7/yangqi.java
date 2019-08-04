@@ -88,7 +88,7 @@ public class yangqi {
                 allcount = agelink[4] * Cost;
             }
         }
-        return   allcount;
+        return allcount;
     }
 }
 

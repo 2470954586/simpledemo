@@ -8,8 +8,8 @@ import java.util.Collection;
  * @Date: 2019/5/26 0:25
  */
 public class List {
-    public   static   void   main(String[] args){
-        Collection<String>  list=new ArrayList<>();
+    public static void main(String[] args) {
+        Collection<String> list = new ArrayList<>();
         list.add("a");
         list.add("b");
 //        Iterator<String> it=list.iterator();

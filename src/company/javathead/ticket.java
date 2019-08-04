@@ -13,6 +13,7 @@ public class ticket {
         new Ticket().start();
     }
 }
+
 class Ticket extends Thread {
     private int ticket1 = 100;
 

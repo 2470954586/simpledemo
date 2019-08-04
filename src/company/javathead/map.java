@@ -17,9 +17,9 @@ public class map {
         System.out.println(map.get(2));
         System.out.println(map.remove(1));
         System.out.println(map);
-        System.out.println(map.replace(2,"sjsgjs"));
+        System.out.println(map.replace(2, "sjsgjs"));
         System.out.println(map);
-        System.out.println(map.put(4,"dsfs"));
+        System.out.println(map.put(4, "dsfs"));
 
     }
 }

@@ -6,7 +6,7 @@ import java.util.Arrays;
  * @Author: sutianwei
  * @Date: 2019/5/26 23:57
  */
-public class    插入 {
+public class 插入 {
     public static void main(String[] args) {
 //        int[] ins = new int[]{2, 34, 3, 5, 54, 656,323,343, 454,};
 //        int[] ins2 = sort(ins);

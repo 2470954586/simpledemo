@@ -16,7 +16,7 @@ public class 顺序查询 {
         if (result == -1) {
             System.out.println("不存在");
         } else {
-            System.out.println("niyaode zai " + (result + 1));
+            System.out.println("你要查找的在 " + (result + 1));
         }
 
     }

@@ -6,10 +6,12 @@ package company.s5_7;
  */
 public class s {
     static int cnt = 0;
+
     public static void main(String[] args) {
         fib(7);
         System.out.println(cnt);
     }
+
     static int fib(int n) {
         cnt++;
         if (n == 0)

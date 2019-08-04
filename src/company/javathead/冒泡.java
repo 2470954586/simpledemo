@@ -12,7 +12,7 @@ public class 冒泡 {
         int n = arr.length;
         for (int i = 0; i < n; i++) {
             for (int j = i + 1; j < n; j++) {
-                if (arr[j] > arr[i]) {
+                if (arr[i] > arr[j]) {
                     int temp = arr[j];
                     arr[j] = arr[i];
                     arr[i] = temp;
@@ -24,7 +24,7 @@ public class 冒泡 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int[] arr = new int[]{1, 454, 3, 54,};
+        int[] arr = new int[]{1, 454, 345, 5464, 2, 54454, 767, 8, 3, 54,};
         sort(arr);
         System.out.println(Arrays.toString(arr));
     }

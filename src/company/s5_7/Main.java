@@ -8,18 +8,18 @@ public class Main {
     public static double getFactor(int age) {
         if (age < 16)
             return 0.0;
-else if (age < 25)
+        else if (age < 25)
             return 2.8;
-else if (age < 35)
+        else if (age < 35)
             return 1.8;
-else if (age < 45)
+        else if (age < 45)
             return 1.0;
-else if (age < 60)
+        else if (age < 60)
             return 0.8;
-else if (age < 100)
+        else if (age < 100)
             return 1.5;
-else
-        return 0.0;
+        else
+            return 0.0;
     }
 
     public static int getLimit(int age) {
