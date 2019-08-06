@@ -16,7 +16,6 @@ public class BinaryTest {
 
     /**
      * 转换方法
-     *
      * @param num       元数据字符串
      * @param fromRadix 元数据的进制类型
      * @param toRadix   目标进制类型

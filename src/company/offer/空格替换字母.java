@@ -7,10 +7,10 @@ public class 空格替换字母 {
         Scanner input = new Scanner(System.in);
         String s = input.nextLine();
 
-        System.out.println(replaceSpace(s));
+  System.out.println(replaceSpace(s));
     }
 
-    public static String replaceSpace(String str) {
+    public static    String replaceSpace(String str) {
         if (str == null)
             return null;
         StringBuilder sb = new StringBuilder();

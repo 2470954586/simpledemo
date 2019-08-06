@@ -5,6 +5,8 @@ import java.util.Scanner;
 import java.util.Stack;
 
 
+
+
 public class BracketMatch {
 
     public static void main(String[] args) {
@@ -12,7 +14,7 @@ public class BracketMatch {
         Scanner sc = new Scanner(System.in);
 
         String s = sc.next();
-        int jjj;
+int jjj;
 
         Stack<Character> stack = new Stack<>();
 

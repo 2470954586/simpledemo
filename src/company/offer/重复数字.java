@@ -37,7 +37,7 @@ public class 重复数字 {
     }
 
     public static void main(String[] args) {
-        int[] arr = {0, 3, 3, 1, 4, 2, 5, 7};
+        int[] arr = {0, 3,3, 1, 4, 2, 5, 7};
         boolean result = duplicate(arr);
         System.out.println(result);
     }

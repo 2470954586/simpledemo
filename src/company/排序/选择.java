@@ -14,7 +14,7 @@ public class 选择 {
         int length = a.length;
         int temp = 0;
         for (int j = 0; j < length - 1; j++) {
-            for (int i = j; i < length - 1; i++) {
+            for (int i = j+1; i < length - 1; i++) {
                 if (a[j] > a[i + 1]) {
                     // change
                     temp = a[j];

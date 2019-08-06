@@ -3,6 +3,7 @@ package company.IO;
 import company.offer.Server;
 import org.junit.Test;
 
+
 import java.net.InetSocketAddress;
 import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;
@@ -27,7 +28,7 @@ import java.nio.file.StandardOpenOption;
  *
  * */
 public class TestBlockingNIO {
-    @Test
+
     public void client() throws Exception {
         //获取通道
         SocketChannel sChannel = SocketChannel.open(new InetSocketAddress("127.0.0.1", 9898));

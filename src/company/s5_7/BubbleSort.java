@@ -9,11 +9,6 @@ package company.s5_7;
 
 import java.util.Arrays;
 
-/*
- * 谨记  直接和后面一个比较
- * J和J+1
- *
- * */
 public class BubbleSort {
     public static void main(String[] args) {
         int[] array = new int[]{1, 2, 3, 5, 234234, 23432, 222, 34, 6, 11, 7};

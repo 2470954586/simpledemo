@@ -88,6 +88,6 @@ public class Calculator {
                 allcount = agelink[4] * Cost;
             }
         }
-        return allcount;
+        return   allcount;
     }
 }

@@ -10,7 +10,6 @@ public class m {
         new m().addOne(o);
         System.out.println(o.i);
     }
-
     public void addOne(final Other o) {
         o.i++;
     }

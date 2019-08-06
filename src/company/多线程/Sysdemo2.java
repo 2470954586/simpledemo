@@ -1,7 +1,7 @@
 package company.多线程;
 
 public class Sysdemo2 {
-    public static void main(String args[]) throws Exception {
+    public static void main(String args[]) throws  Exception{
         Jvm jvm1 = Jvm.getInstance();
         Jvm jvm2 = Jvm.getInstance();
         System.out.println(jvm1);

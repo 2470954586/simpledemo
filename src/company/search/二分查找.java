@@ -21,9 +21,9 @@ public class 二分查找 {
 
 
     public static void main(String args[]) {
-        int[] srcArray = new int[]{2, 34, 5, 79, 97, 43, 234, 32, 324, 324534, 5346, 456};
+        int[] srcArray = new int[]{2, 34, 5, 79, 97, 43, 234, 32};
         Arrays.sort(srcArray);
-        System.out.println(binSearch(srcArray, 0, srcArray.length - 1, 456));
+        System.out.println(binSearch(srcArray, 0, srcArray.length - 1, 32));
     }
 
 }
