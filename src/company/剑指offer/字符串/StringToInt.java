@@ -33,7 +33,7 @@ public class StringToInt {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub
-        String s = "-12312312";
+        String s = "-12312313";
         System.out.println("使用库函数转换：" + Integer.valueOf(s));
         int res = StringToInt.StrToInt(s);
         System.out.println("使用自己写的方法转换：" + res);
