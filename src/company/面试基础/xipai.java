@@ -1,5 +1,7 @@
 package company.面试基础;
-
+/*
+*
+* d*/
 import java.util.Scanner;
 
 public class xipai {
