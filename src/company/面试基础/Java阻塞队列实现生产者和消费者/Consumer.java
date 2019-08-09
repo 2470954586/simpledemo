@@ -1,5 +1,7 @@
 package company.面试基础.Java阻塞队列实现生产者和消费者;
 
+
+
 import java.util.concurrent.BlockingQueue;
 
 public class Consumer implements Runnable {
