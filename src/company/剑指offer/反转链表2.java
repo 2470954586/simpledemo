@@ -26,10 +26,10 @@ public class 反转链表2 {
             p = p.next;
         }
         System.out.println("\n");
-        p=reverseLinkedList(head);
-        while (p!=null){
-            System.out.println(p.value+"");
-            p=p.next;
+        p = reverseLinkedList(head);
+        while (p != null) {
+            System.out.println(p.value + "");
+            p = p.next;
         }
 
 
