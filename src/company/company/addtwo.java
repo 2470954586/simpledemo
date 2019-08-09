@@ -8,8 +8,8 @@ import java.util.Arrays;
  */
 public class addtwo {
     public static void main(String args[]) {
-        int[] num1 = new int[]{12, 34, 3432, 23, 1232, 2323};
-        int[] num2 = new int[]{344, 44, 55454, 6767};
+        int[] num1 = new int[]{14,22,33,45,65,78};
+        int[] num2 = new int[]{1,35,56,85,564};
         int[] num3 = new int[num1.length + num2.length];
         int a = 0;
         int b = 0;
