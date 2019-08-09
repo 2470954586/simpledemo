@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c84d5556-83ff-4212-9102-1dc3e34f2411" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/company/offer/offer3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/company/面试基础/Java阻塞队列实现生产者和消费者/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/company/面试基础/Java阻塞队列实现生产者和消费者/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/company/面试基础/Java阻塞队列实现生产者和消费者/Producer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/simpledemo/company/company/addtwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/simpledemo/company/company/addtwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/company/面试基础/Java阻塞队列实现生产者和消费者/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/company/面试基础/Java阻塞队列实现生产者和消费者/Consumer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -98,11 +93,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/company/面试基础/Java阻塞队列实现生产者和消费者/Consumer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
               <folding>
-                <element signature="e#240#241#0" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#374#375#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -295,7 +290,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565339928778" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565341173204" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../git2/baoxiaoxt" />
   </component>
   <component name="RunDashboard">
@@ -398,7 +393,7 @@
       <updated>1565226275711</updated>
       <workItem from="1565226277237" duration="5518000" />
       <workItem from="1565247249943" duration="6203000" />
-      <workItem from="1565309097752" duration="9329000" />
+      <workItem from="1565309097752" duration="9939000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1565226883224</created>
@@ -432,7 +427,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21050000" />
+    <option name="totallyTimeSpent" value="21660000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="78" y="59" width="1699" height="888" extended-state="0" />
@@ -719,11 +714,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/company/面试基础/Java阻塞队列实现生产者和消费者/Consumer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
           <folding>
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
           </folding>
         </state>
       </provider>
