@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c84d5556-83ff-4212-9102-1dc3e34f2411" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/company/IO/k.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/company/offer/offer3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/company/面试基础/Java阻塞队列实现生产者和消费者/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/company/面试基础/Java阻塞队列实现生产者和消费者/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/company/面试基础/Java阻塞队列实现生产者和消费者/Producer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/company/IO/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/company/company/addtwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/company/company/addtwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/simpledemo/company/company/addtwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/simpledemo/company/company/addtwo.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,11 +39,71 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/company/offer/二维数组查找.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="429">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/company/offer/空格替换字母.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/company/offer/offer3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-102">
+              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="23" />
+              <folding>
+                <element signature="e#598#599#0" expanded="true" />
+                <element signature="e#628#629#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/company/面试基础/Java阻塞队列实现生产者和消费者/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="69" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/company/面试基础/Java阻塞队列实现生产者和消费者/Producer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/company/面试基础/Java阻塞队列实现生产者和消费者/Consumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+              <folding>
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="e#372#373#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,12 +132,18 @@
         <option value="$PROJECT_DIR$/src/company/排序/MergeSort.java" />
         <option value="$PROJECT_DIR$/src/company/IO/k.java" />
         <option value="$PROJECT_DIR$/src/company/company/addtwo.java" />
+        <option value="$PROJECT_DIR$/src/company/offer/空格替换字母.java" />
+        <option value="$PROJECT_DIR$/src/company/offer/offer3.java" />
+        <option value="$PROJECT_DIR$/src/company/面试基础/queuePB.java" />
+        <option value="$PROJECT_DIR$/src/company/面试基础/Java阻塞队列实现生产者和消费者/Main.java" />
+        <option value="$PROJECT_DIR$/src/company/面试基础/Java阻塞队列实现生产者和消费者/Producer.java" />
+        <option value="$PROJECT_DIR$/src/company/面试基础/Java阻塞队列实现生产者和消费者/Consumer.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="40" />
-    <option name="y" value="28" />
+    <option name="x" value="78" />
+    <option name="y" value="59" />
     <option name="width" value="1699" />
     <option name="height" value="888" />
   </component>
@@ -204,6 +272,14 @@
               <item name="company" type="462c0819:PsiDirectoryNode" />
               <item name="面试基础" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="simpledemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simpledemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="面试基础" type="462c0819:PsiDirectoryNode" />
+              <item name="Java阻塞队列实现生产者和消费者" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -219,7 +295,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565333353972" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565339928778" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../git2/baoxiaoxt" />
   </component>
   <component name="RunDashboard">
@@ -234,26 +310,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.addtwo">
-    <configuration name="递推斐波那契" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="company.javathead.递推斐波那契" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="空格替换字母" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="company.offer.空格替换字母" />
       <module name="simpledemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="company.javathead.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="company.company.A" />
-      <module name="simpledemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="company.company.*" />
+          <option name="PATTERN" value="company.offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,6 +337,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="company.面试基础.Java阻塞队列实现生产者和消费者.Main" />
+      <module name="simpledemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="company.面试基础.Java阻塞队列实现生产者和消费者.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="addtwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="company.company.addtwo" />
       <module name="simpledemo" />
@@ -287,12 +363,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="k" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="company.IO.k" />
+    <configuration name="offer3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="company.offer.offer3" />
       <module name="simpledemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="company.IO.*" />
+          <option name="PATTERN" value="company.offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,11 +378,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.offer3" />
+        <item itemvalue="Application.空格替换字母" />
         <item itemvalue="Application.addtwo" />
         <item itemvalue="Application.Acallable" />
-        <item itemvalue="Application.A" />
-        <item itemvalue="Application.递推斐波那契" />
-        <item itemvalue="Application.k" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +398,7 @@
       <updated>1565226275711</updated>
       <workItem from="1565226277237" duration="5518000" />
       <workItem from="1565247249943" duration="6203000" />
-      <workItem from="1565309097752" duration="4830000" />
+      <workItem from="1565309097752" duration="9329000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1565226883224</created>
@@ -356,13 +432,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16551000" />
+    <option name="totallyTimeSpent" value="21050000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="28" width="1699" height="888" extended-state="0" />
+    <frame x="78" y="59" width="1699" height="888" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28320193" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28320193" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -371,7 +447,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20430107" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32123655" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -590,8 +666,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/company/offer/二维数组查找.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="429">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/company/offer/空格替换字母.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/company/面试基础/queuePB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/company/offer/offer3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="23" />
+          <folding>
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/company/面试基础/Java阻塞队列实现生产者和消费者/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="69" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/company/面试基础/Java阻塞队列实现生产者和消费者/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/company/面试基础/Java阻塞队列实现生产者和消费者/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
