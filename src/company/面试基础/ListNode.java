@@ -22,7 +22,9 @@ public class ListNode {
                 if (mergeHead == null) {
                     mergeHead = current = list1;
                /*
-               刚开始第一步就是将第一个最小的数赋予mergeHead，这是很重要的一步，这样mergeHead                     就可以代表合并后的整个链表，这里有个概念需要说明一下，无论是list1,list2,current,mergehead，他们都是一个对象，那么例如mergeHead = current，他们操作的都是同一个对象
+               刚开始第一步就是将第一个最小的数赋予mergeHead，这是很重要的一步，这样mergeHead
+               就可以代表合并后的整个链表，这里有个概念需要说明一下，无论是list1,list2,current,mergehead，他们都是一个对象，
+               那么例如mergeHead = current，他们操作的都是同一个对象
                */
                 } else {
                     current.next = list1;//将current指向的下个地址设为list1

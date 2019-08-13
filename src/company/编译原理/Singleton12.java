@@ -123,6 +123,7 @@ public class Singleton12 {
     public static class Singleton7 {
 
         private volatile static Singleton7 instance = null;
+
         private Singleton7() {
 
         }
