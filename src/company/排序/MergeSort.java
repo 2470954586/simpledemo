@@ -1,12 +1,19 @@
 package company.排序;
 
+/*
+ *
+ *归并排序是一种稳定的排序算法，归并排序的主要问题在于它需要一个与待排序数组一样大的辅助数组空间。
+ * 由于归并排序每次划分时两个子序列的长度基本一样，所以归并排序最好、最差和平均时间复杂度都是nlog2n。
+ *
+ *
+ * */
 public class MergeSort {
     public void mergeSort(int a[], int left, int right) {
         if (left < right) {
             int middle = (left + right) / 2;
             mergeSort(a, left, right);//
             mergeSort(a, left + 1, right);
-            merge(a, left,middle, right);
+            merge(a, left, middle, right);
         }
 
     }
