@@ -1,6 +1,8 @@
 public class Main {
 //
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+
+        char[] charArr = "https://www.guazi.com/".toCharArray(   );
+        System.out.println(charArr.length);
     }
 }
