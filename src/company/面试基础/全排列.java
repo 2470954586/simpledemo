@@ -6,9 +6,7 @@ public class 全排列 {
 //        int[] arr = {1, 2, 3, 4};
 
         fullSort(arr, 0, arr.length - 1);
-    }
-
-    public static void fullSort(String[] arr, int start, int end) {
+    }  public static void fullSort(String[] arr, int start, int end) {
         // 递归终止条件
         if (start == end) {
             for (String i : arr) {
@@ -26,6 +24,8 @@ public class 全排列 {
             swap(arr, i, start);
         }
     }
+
+
 
 
 
